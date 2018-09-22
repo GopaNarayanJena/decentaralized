@@ -1,0 +1,12 @@
+D:\projects\visualbasic\decentralize\decentralize\bin\Debug\decentralize.exe.config
+D:\projects\visualbasic\decentralize\decentralize\bin\Debug\decentralize.exe
+D:\projects\visualbasic\decentralize\decentralize\bin\Debug\decentralize.pdb
+D:\projects\visualbasic\decentralize\decentralize\bin\Debug\decentralize.xml
+D:\projects\visualbasic\decentralize\decentralize\obj\Debug\decentralize.Form1.resources
+D:\projects\visualbasic\decentralize\decentralize\obj\Debug\decentralize.Resources.resources
+D:\projects\visualbasic\decentralize\decentralize\obj\Debug\decentralize.vbproj.GenerateResource.Cache
+D:\projects\visualbasic\decentralize\decentralize\obj\Debug\decentralize.exe
+D:\projects\visualbasic\decentralize\decentralize\obj\Debug\decentralize.xml
+D:\projects\visualbasic\decentralize\decentralize\obj\Debug\decentralize.pdb
+D:\projects\visualbasic\decentralize\decentralize\obj\Debug\decentralize.vbprojResolveAssemblyReference.cache
+D:\projects\visualbasic\decentralize\decentralize\obj\Debug\decentralize.upgrade.resources
